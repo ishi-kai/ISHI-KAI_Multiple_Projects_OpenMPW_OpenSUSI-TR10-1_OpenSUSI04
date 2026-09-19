@@ -13,3 +13,4 @@
 プロジェクトとしてもレアであり、[ISHI会版OpenMPW OpenSUSI-TR10-1開始！！！～2026年OpenSUSI-TR10（OpenSUSI-TR10シャトル）の相乗り募集：北陸編～](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/08/03/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_hokuriku.html)の講師や他のイベントでもサポーターとして活躍していただいたOhno氏がエントリーされました。  
 
 - [半導体計測用アドレスデコーダ・マルチプレクサ]https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/Charactorization/ShuntaroOHNO/)
+
